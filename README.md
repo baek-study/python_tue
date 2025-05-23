@@ -122,7 +122,7 @@
 
 ## [6주차 강의&nbsp;-&nbsp;조건문](https://github.com/baek-study/python_tue/blob/main/source/week6_mju_tue.ipynb)
 
-### [if~else 문 - 선택 명령 2개 ](https://github.com/baek-study/python_tue/blob/main/source/week5_mju_tue.ipynb)
+### [if~else 문 - 선택 명령 2개 ](https://github.com/baek-study/python_tue/blob/main/source/week6_mju_tue.ipynb)
 <ul>
   <li> if~else 문 <br>
     <b>if</b> score >= 60<b>:</b>&ensp;<br>
@@ -132,7 +132,7 @@
   </li>
 </ul>
 
-### [연속 if 문 - 선택 명령 3개 이상](https://github.com/baek-study/python_tue/blob/main/source/week5_mju_tue.ipynb)
+### [연속 if 문 - 선택 명령 3개 이상](https://github.com/baek-study/python_tue/blob/main/source/week6_mju_tue.ipynb)
   <ul>
   <li><b>if</b> score >= 90<b>:</b>&ensp;  <br>
     &ensp;&nbsp;print('A') <br>
@@ -143,7 +143,7 @@
   </li>
   </ul>
 
-### [중첩 if 문 - if 안에 if](https://github.com/baek-study/python_tue/blob/main/source/week5_mju_tue.ipynb)  
+### [중첩 if 문 - if 안에 if](https://github.com/baek-study/python_tue/blob/main/source/week6_mju_tue.ipynb)  
 <ul>
   <li><b>if</b> score >= 80<b>:</b>&ensp;  <br>
     &ensp;&ensp;&nbsp;<b>if</b> score >= 90<b>:</b>&ensp; <br>
@@ -213,7 +213,7 @@
 </li>
 </ul>
 
-### [무한 루프](https://github.com/baek-study/python_tue/blob/main/source/week7_mju_tue.ipynb)
+### [무한 루프](https://github.com/baek-study/python_tue/blob/main/source/week_mju_tue.ipynb)
 <ul>
   <li> <b>while True :</b> #  무한 루프<br>
   &nbsp; &nbsp; 문장들<br>
@@ -262,7 +262,7 @@
 
 ### 함수 리뷰 ###
 
-### [키워드 인수&디폴트 인수&가변 인수 ](https://github.com/baek-study/python_tue/blob/main/source/week9_mju_tue.ipynb)
+### [키워드 인수&디폴트 인수&가변 인수 ](https://github.com/baek-study/python_tue/blob/main/source/week11_mju_tue.ipynb)
 <ul>
 <li> 기본값 인수 : 함수 정의시 기본값(디폴트값)이 설정됨</li>
 <li> 키워드 인수 : 함수 호출시 '키워드 = 값'로 호출 </li>
