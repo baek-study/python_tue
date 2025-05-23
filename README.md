@@ -6,7 +6,7 @@
 
 <br>
 
-## 1주차
+## [1주차]()
 <ul>
   <li>
     파이썬 소개 - 인터프리터(Interpreter) 언어, 객체지향 언어     
@@ -112,7 +112,6 @@
     ex) print(f'hi.{name:10s}, age {25:5d}, {PI:.2f}’)
   </li>  
 </ul>
-<br>
 
 ### [단순 if](https://github.com/baek-study/python_tue/blob/main/source/week5_mju_tue.ipynb)
 <ul>    
@@ -121,7 +120,7 @@
     &ensp;&nbsp;  print('pass') <br>
   </li>
 </ul>
-
+<br>
 
 ## [6주차 강의&nbsp;-&nbsp;조건문](https://github.com/baek-study/python_tue/blob/main/source/week6_mju_tue.ipynb)
 
@@ -170,7 +169,6 @@
   &ensp;&ensp;print(f'{count}회') <br> 
   &ensp;&ensp;count += 1 # 증감 <br> 
   </li>
-
 </ul>
 
 ### [문자열 생성 및 조작](https://github.com/baek-study/python_tue/blob/main/source/week7_mju_tue.ipynb)
@@ -193,21 +191,11 @@
 </ul>
 <br>
 
-
-
-### [무한 루프](https://github.com/baek-study/python_tue/blob/main/source/week7_mju_tue.ipynb)
-<ul>
-  <li> <b>while True :</b> #  무한 루프<br>
-  &nbsp; &nbsp; 문장들<br>
-  &nbsp; &nbsp; if pwd == 'mju':<br>
-   &nbsp; &nbsp;&nbsp; &nbsp; break # 무한 루프 탈출 
-</li>
-</ul>
   
 #### [7주차 퀴즈 풀이](https://github.com/baek-study/python_tue/blob/main/source/week7_py_quiz_tue.ipynb)
 <br>
 
-## [영상 강의&nbsp;-&nbsp;반복문](https://github.com/baek-study/python_tue/blob/main/source/week_mju_tue.ipynb)
+## [영상 강의&nbsp;-&nbsp;반복문(for)](https://github.com/baek-study/python_tue/blob/main/source/week_mju_tue.ipynb)
 
 ### [반복문:for](https://github.com/baek-study/python_tue/blob/main/source/week_mju_tue.ipynb)
 <ul>
@@ -224,6 +212,15 @@
 <li><b>for</b> i <b>in</b> range(1, 9)<b>:</b> <br>
   &ensp;&ensp; <b>for</b> j <b>in</b> range(1, 9)<b>:</b><br>
   &ensp;&ensp;&ensp;&ensp;print(f"{i}*{j}={i*j}")  # 구구단<br>  
+</li>
+</ul>
+
+### [무한 루프](https://github.com/baek-study/python_tue/blob/main/source/week7_mju_tue.ipynb)
+<ul>
+  <li> <b>while True :</b> #  무한 루프<br>
+  &nbsp; &nbsp; 문장들<br>
+  &nbsp; &nbsp; if pwd == 'mju':<br>
+   &nbsp; &nbsp;&nbsp; &nbsp; break # 무한 루프 탈출 
 </li>
 </ul>
 
