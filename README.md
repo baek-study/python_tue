@@ -111,7 +111,7 @@
   </li>  
 </ul>
 
-### [단순 if](https://github.com/baek-study/python_tue/blob/main/source/week5_mju_tue.ipynb)
+### [단순 if - 선택 명령 1개](https://github.com/baek-study/python_tue/blob/main/source/week5_mju_tue.ipynb)
 <ul>    
   <li> 단순 if 문 <br>
     <b>if</b> score >= 60<b>:</b>&ensp;<br>
@@ -122,7 +122,7 @@
 
 ## [6주차 강의&nbsp;-&nbsp;조건문](https://github.com/baek-study/python_tue/blob/main/source/week6_mju_tue.ipynb)
 
-### [if~else 문](https://github.com/baek-study/python_tue/blob/main/source/week5_mju_tue.ipynb)
+### [if~else 문 - 선택 명령 2개 ](https://github.com/baek-study/python_tue/blob/main/source/week5_mju_tue.ipynb)
 <ul>
   <li> if~else 문 <br>
     <b>if</b> score >= 60<b>:</b>&ensp;<br>
