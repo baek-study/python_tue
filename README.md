@@ -77,9 +77,7 @@
 
 ## [4주차 강의&nbsp;-&nbsp; 연산자](https://github.com/baek-study/python_tue/blob/main/source/week4_mju_tue.ipynb)
 
-<ul>
-  <li> 리뷰 : 변수, 표준 입력함수 </li>
-</ul>
+### 변수/표준입출력 리뷰 ###
 
 ### [산술/대입/복합 연산자](https://github.com/baek-study/python_tue/blob/main/source/week4_mju_tue.ipynb)
 <ul>
@@ -301,3 +299,31 @@
 ## [12주차 강의&nbsp;-&nbsp;리스트](https://github.com/baek-study/python_tue/blob/main/source/week12_mju_tue.ipynb)
 
 ### 함수&모듈 리뷰 ###
+### [리스트 생성 및 조작](https://github.com/baek-study/python_tue/blob/main/source/week12_mju_tue.ipynb)
+<ul>
+<li> 생성 : temps=[28, 31, 33, 35, 27]  </li>
+<li>인덱싱: temps[3], temps[-1]  </li>
+<li>슬라이싱: temps[2:5]  </li>
+<li>연산 : +(연결), *(반복), in/not in</li>  
+<li>얕은복사 : list1 = temps # 같은것 가리킴</li>  
+<li>깊은복사 : list2 = list(temps) # 새로운 리스트 만듬 </li>  
+<li>수정: temps[3] = 5, temps[2:5] = [1, 2] 
+</ul>
+
+
+### [리스트 동작](https://github.com/baek-study/python_tue/blob/main/source/week12_mju_tue.ipynb)
+<ul>
+  <li> 삽입 : temps.append(55) </li>
+  <li> 삭제 : del temps[1], temps.remove(11) </li>
+  <li> 길이 : len(temps)</li>
+  <li> temps.index(33), temps.count(33), temps.sort() 등 </li>
+</ul>
+
+### [리스트 반복](https://github.com/baek-study/python_tue/blob/main/source/week12_mju_tue.ipynb)
+<ul>
+<li>for item in temps : # 변수(itemp)는 리스트 요소값<br>
+  &nbsp; print(item) </li>
+<li>for i in rangle(0, len(temps)) : # 변수(i)는 리스트 인덱스값
+  &nbsp;print(temps[i]) <br>
+</li>
+</ul>
