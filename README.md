@@ -190,7 +190,7 @@
 <br>
 
   
-#### [7주차 퀴즈 풀이](https://github.com/baek-study/python_tue/blob/main/source/week7_py_quiz_tue.ipynb)
+#### [7주차 퀴즈 풀이](https://github.com/baek-study/python_tue/blob/main/source/week7_py_quiz.ipynb)
 <br>
 
 ## [영상 강의&nbsp;-&nbsp;반복문(for)](https://github.com/baek-study/python_tue/blob/main/source/week_mju_tue.ipynb)
@@ -231,6 +231,7 @@
 <br>
 
 ## [함수](https://github.com/baek-study/python_tue/blob/main/source/week9_mju_tue.ipynb)
+### 문자열 관련 함수/메소드 ###
 
 ### [함수 정의&함수 호출](https://github.com/baek-study/python_mon/blob/main/source/week9_mju_mon.ipynb)
 <ul>
@@ -253,7 +254,6 @@
   <li><b>반환값:</b>(함수 정의) 함수 결과로 돌려주는 값 <br> 
   <b>결과변수:</b> 함수호출 후 결과대입   </li>
 </ul>
-
 
 <br>
 
