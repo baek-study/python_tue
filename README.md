@@ -336,11 +336,17 @@
 ### [리스트와 함수](https://github.com/baek-study/python_tue/blob/main/source/week13_mju_tue.ipynb)
 <ul>
   <li> 매개변수로 리스트 : </li>
-  -def func1(lst) <br>
+  def func1(lst) <br>
    &nbsp; print(lst)  
   <li>리턴형으로 리스트 :</li>
    def func2():<br>
    &nbsp; ...
   &nbsp; return lst   
 </ul>
-<br>
+
+### [리스트 함축](https://github.com/baek-study/python_tue/blob/main/source/week13_mju_tue.ipynb)
+<ul>
+  <li> 수식 for (변수 in 리스트) if (조건) </li>
+  list1 = [ x*x for x in range(0,10)]  # 0~9까지 제곱값<br>
+  list2 = [ x*x for x in range(0,10) if x%2 ==0 ] #0~9까지 짝수의 제곱값
+</ul>
