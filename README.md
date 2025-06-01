@@ -338,8 +338,9 @@
   <li> 매개변수로 리스트 : </li>
   -def func1(lst) <br>
    &nbsp; print(lst)  
-  <li>리턴형으로 리스트 :/li>
+  <li>리턴형으로 리스트 :</li>
    def func2():<br>
-    return lst   
+   &nbsp; ...
+  &nbsp; return lst   
 </ul>
 <br>
