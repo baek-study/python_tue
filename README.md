@@ -327,3 +327,19 @@
   &nbsp;print(temps[i]) <br>
 </li>
 </ul>
+<br>
+  
+## [13주차 강의&nbsp;-&nbsp;리스트2](https://github.com/baek-study/python_tue/blob/main/source/week13_mju_tue.ipynb)
+
+### 리스트 동작 ###
+
+### [리스트와 함수](https://github.com/baek-study/python_tue/blob/main/source/week13_mju_tue.ipynb)
+<ul>
+  <li> 매개변수로 리스트 : </li>
+  -def func1(lst) <br>
+   &nbsp; print(lst)  
+  <li>리턴형으로 리스트 :/li>
+   def func2():<br>
+    return lst   
+</ul>
+<br>
