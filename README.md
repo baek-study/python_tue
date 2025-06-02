@@ -350,3 +350,11 @@
   list1 = [ x*x for x in range(0,10)]  # 0~9까지 제곱값<br>
   list2 = [ x*x for x in range(0,10) if x%2 ==0 ] #0~9까지 짝수의 제곱값
 </ul>
+
+<br>
+
+## [과제 참고](https://github.com/baek-study/python_tue/blob/main/source/homework.ipynb)
+<ul>
+  <li>공배수 출력 문제</li>
+  <li>팩토리얼 문제</li>
+</ul>
