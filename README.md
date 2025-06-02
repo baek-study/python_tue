@@ -353,7 +353,7 @@
 
 <br>
 
-## [과제 참고](https://github.com/baek-study/python_tue/blob/main/source/homework.ipynb)
+## [과제 풀이 참고](https://github.com/baek-study/python_tue/blob/main/source/homework.ipynb)
 <ul>
   <li>공배수 출력 문제</li>
   <li>팩토리얼 문제</li>
